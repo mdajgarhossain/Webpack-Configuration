@@ -1,0 +1,1 @@
+export const ABC = 'This is ABC from test.js module'
